@@ -178,4 +178,5 @@ void bresenham_circle(int xc, int yc, int radius) {
 ### OpenGL에서 삼각형을 사용하는 이유
 
 삼각형은 무조건 평면이라 취급하기 쉽다.
+
 삼각형은 무조건 볼록하기 때문에 취급하기가 쉽다.
